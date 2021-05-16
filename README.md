@@ -1,4 +1,4 @@
-# primevue-quickstart
+# PrimeVue Template Without Router
 
 ## Project setup
 ```
