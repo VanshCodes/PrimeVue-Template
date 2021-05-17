@@ -9,7 +9,9 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
   background-color: var(--surface-a); /* FROM PRIMEVUE VARS */
-  font-family: var(--primary-font);
   font-weight: 400;
+}
+* {
+  font-family: var(--primary-font);
   color: var(--primary-text-color);
 }
